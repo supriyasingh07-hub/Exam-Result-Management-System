@@ -1,0 +1,12 @@
+# Compiled Java files
+*.class
+
+# Data file generated when the program runs
+results.txt
+
+# IDE / OS files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
