@@ -34,7 +34,7 @@ Exam-Result-Management-System/
 ├── src/
 │   └── ExamResultManagement.java     # complete source code (single file)
 ├── docs/
-│   ├── Supriya_Kumari_Report.docx    # project interim report
+│   ├── Supriya_Kumari_Synopsis.docx  # project synopsis
 │   └── Exam_Result_Management_System.pptx   # 10-slide presentation
 ├── .gitignore
 └── README.md
@@ -110,7 +110,7 @@ Found: ER102 | Mitali Roy | Total: 103/300 | Percentage: 34.33 | Result: Fail
 - GUI or web interface and report export
 
 ## Documents
-- [Project Report](docs/Supriya_Kumari_Report.docx)
+- [Project Synopsis](docs/Supriya_Kumari_Synopsis.docx)
 - [Presentation](docs/Exam_Result_Management_System.pptx)
 
 ## Author
